@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2024 OrionOS
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Orion Spaces Dashboard Categories title -->
+    <string name="button_title">Buttons</string>
+    <string name="lockscreen_title">Lock Screen</string>
+    <string name="misc_title">Miscellaneous</string>
+    <string name="navigation_title">Navigation</string>
+    <string name="notifications_title">Notifications</string>
+    <string name="quicksettings_title">Quick Settings</string>
+    <string name="sound_title">Sound</string>
+    <string name="statusbar_title">Status Bar</string>
+    <string name="display_title">Display</string>
+    <string name="ui_title">User Interface</string>
+
+    <!-- Orion Spaces Dashboard Summary -->
+    <string name="about_orionos_summary">About Team</string>
+    <string name="buttons_spaces_summary">Tweak hardware buttons</string>
+    <string name="lockscreen_spaces_summary">Customize lockscreen interface</string>
+    <string name="misc_spaces_summary">Misc uncategorized stuffs</string>
+    <string name="nav_spaces_summary">Customize navigation behavior</string>
+    <string name="notif_spaces_summary">Notification Control and more</string>
+    <string name="qs_spaces_summary">QuickSettings customizations</string>
+    <string name="sound_spaces_summary">Sound and vibrations customizations</string>
+    <string name="sb_spaces_summary">Customize statusbar icons • layout etc</string>
+    <string name="ui_spaces_summary">Customize UI colors • icons • fonts etc</string>
+
+    <!-- App Title -->
+    <string name="orion_settings_title">Orion Spaces</string>
+    <string name="orionspace_title">Orion°</string>
+    <string name="orion_settings_summary">Let\'s get Orion customizations here!</string>
+    <string name="crdroid_settings_title">OrionOS Settings</string>
+    <string name="crdroid_settings_summary">Open goodness</string>
+    <string name="reset_settings_title">Reset settings</string>
+    <string name="reset_settings_message">This will reset most OrionOS settings to their default values for the current user. Would you like to continue?</string>
+    <string name="search_homepage">Search</string>
+
+
+    <!-- Ignore secure window -->
+    <string name="ignore_window_secure_title">Ignore window secure flags</string>
+    <string name="ignore_window_secure_summary">Fixes black screenshots and recordings, May lead to privacy leaks, Restart apps to apply changes</string>
+
+    <!-- Statusbar Clock color and font -->
+    <string name="status_bar_clock_font_style_title">Clock font style</string>
+    <string name="status_bar_clock_color_title">Clock font color</string>
+
+    <!-- Font Customizations for Functions -->
+    <string name="function_font_stock">Normal (default)</string>
+    <string name="function_font_bold">Bold</string>
+    <string name="function_font_italic">Italic</string>
+    <string name="function_font_bold_italic">Bold Italic</string>
+    <string name="function_font_light_italic">Light Italic</string>
+    <string name="function_font_thin_italic">Thin Italic</string>
+    <string name="function_font_light">Light</string>
+    <string name="function_font_thin">Thin</string>
+    <string name="function_font_condensed_normal">Condensed</string>
+    <string name="function_font_condensed_italic">Condensed Italic</string>
+    <string name="function_font_condensed_bold">Condensed Bold</string>
+    <string name="function_font_condensed_bold_italic">Condensed Bold Italic</string>
+    <string name="function_font_condensed_light">Condensed Light</string>
+    <string name="function_font_condensed_light_italic">Condensed Light Italic</string> 
+    <string name="function_font_medium_normal">Medium</string>
+    <string name="function_font_medium_italic">Medium Italic</string>
+    <string name="function_font_black">Black</string>
+    <string name="function_font_black_italic">Black Italic</string> 
+    <string name="function_font_dancingscript">DancingScript</string>
+    <string name="function_font_dancingscript_bold">DancingScript Bold</string>
+    <string name="function_font_comingsoon">ComingSoon</string>
+    <string name="function_font_notoserif">NotoSerif Normal</string>
+    <string name="function_font_notoserif_italic">NotoSerif Italic</string>
+    <string name="function_font_notoserif_bold">NotoSerif Bold</string>
+    <string name="function_font_notoserif_bold_italic">NotoSerif Bold Italic</string>
+</resources>
